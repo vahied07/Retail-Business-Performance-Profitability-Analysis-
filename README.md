@@ -21,7 +21,7 @@ This repository also contains a second project:
 🌍 Global CO₂ Emissions Tracker by Sector
 
 📦 The project is available as a ZIP file:
-Global-Emissions_Tracker_zip.zip
+Global_Emissions_Tracker_zip.zip
 
 To explore the project:
 
